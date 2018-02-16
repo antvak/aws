@@ -1,4 +1,4 @@
-# aws
+# antvak aws scripts
 scripts and other snippets for managing AWS accounts
 
 ## lambda
